@@ -1,0 +1,25 @@
+{
+  "name": "animalcare",
+  "version": "1.0.0",
+  "description": "APS do primeiro semestre",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikawa/AnimalCare.git"
+  },
+  "author": "noodle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikawa/AnimalCare/issues"
+  },
+  "homepage": "https://github.com/erikawa/AnimalCare#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1"
+  }
+}
